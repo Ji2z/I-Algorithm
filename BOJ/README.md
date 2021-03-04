@@ -1,5 +1,5 @@
 # BOJ
-* 구현
+## __구현__
   * [1244 스위치 켜고 끄기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/1244_스위치켜고끄기.java)
   * [2557 Hello World](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2557_HelloWorld.py)
   * [2559 수열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2559_수열.java)
@@ -28,11 +28,11 @@
   * [14696 딱지놀이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/14696_딱지놀이.java)
   * [16926 배열돌리기1](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16926_배열돌리기1.java)
   * [16935 배열돌리기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16935_배열돌리기3.java)
-* 그래프
-* 문자열
-* 백트래킹
-* 브루트포스
-* 수학
+## 그래프
+## 문자열
+## 백트래킹
+## 브루트포스
+## 수학
 * 스택 & 큐 & 덱
 * 재귀
 * 정렬
