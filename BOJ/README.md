@@ -44,14 +44,24 @@
 
 > ## 다이나믹 프로그래밍 (DP)
 >  * [1904 01타일](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/1904_01타일.java)
+>  * [1003 피보나치 함수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/1003_피보나치함수.java)
 
 > ## 문자열
+
 > ## 백트래킹
+
 > ## 브루트포스
+
 > ## 수학
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
 
 > ## 스택 & 큐 & 덱
+>  * [9012 괄호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/9012_괄호.java)
+>  * [10773 제로](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10773_제로.java)
+>  * [10828 스택](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10828_스택.java)
+
 > ## 재귀
+
 > ## 정렬
+
 > ## 트리
