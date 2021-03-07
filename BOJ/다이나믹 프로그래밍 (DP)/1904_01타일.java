@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 * @caution
 */
 
-public class Main {
+public class 1904_01타일 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
