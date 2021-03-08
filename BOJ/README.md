@@ -43,8 +43,11 @@
 >  * [20304 비밀번호 제작](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/20304_비밀번호제작.java)
 
 > ## 다이나믹 프로그래밍 (DP)
->  * [1904 01타일](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/1904_01타일.java)
+>  * [2133 타일 채우기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/2133_타일채우기.java)
 >  * [1003 피보나치 함수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/1003_피보나치함수.java)
+>  * [1904 01타일](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/1904_01타일.java)
+>  * [14430 자원 캐기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/14430_자원캐기.java)
+>  * [14494 다이나믹이 뭐예요?](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/14494_다이나믹이뭐예요.java)
 
 > ## 문자열
 
