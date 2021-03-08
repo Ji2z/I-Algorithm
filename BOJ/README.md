@@ -59,6 +59,8 @@
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
 
 > ## 스택 & 큐 & 덱
+>  * [1874 스택 수열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1874_스택수열.java)
+>  * [4949 균형잡힌 세상](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/4949_균형잡힌세상.java)
 >  * [9012 괄호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/9012_괄호.java)
 >  * [10773 제로](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10773_제로.java)
 >  * [10828 스택](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10828_스택.java)
