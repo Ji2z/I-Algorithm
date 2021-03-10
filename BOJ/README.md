@@ -60,14 +60,16 @@
 
 > ## 스택 & 큐 & 덱
 >  * [1874 스택 수열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1874_스택수열.java)
+>  * [1918 후위 표기식](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1918_후위표기식.java)
 >  * [1935 후위 표기식2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1935_후위표기식2.java)
->  * [2504 괄호의 값](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/2504_괄호의 값.java)
+>  * [2504 괄호의 값](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/2504_괄호의값.java)
 >  * [3986 좋은 단어](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/3986_좋은단어.java)
 >  * [4889 안정적인 문자열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/4889_안정적인문자열.java)
 >  * [4949 균형잡힌 세상](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/4949_균형잡힌세상.java)
 >  * [6198 옥상 정원 꾸미기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/6198_옥상정원꾸미기.java)
 >  * [9012 괄호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/9012_괄호.java)
 >  * [10773 제로](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10773_제로.java)
+>  * [10845 큐](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10845_큐.java)
 >  * [10799 쇠 막대기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10799_쇠막대기.java)
 >  * [10828 스택](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10828_스택.java)
 
