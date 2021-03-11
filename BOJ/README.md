@@ -50,6 +50,9 @@
 >  * [14494 다이나믹이 뭐예요?](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍%20_DP/14494_다이나믹이뭐예요.java)
 
 > ## 문자열
+>  * [1475 방 번호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/1475_방번호.java)
+>  * [2577 숫자의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/2577_숫자의개수.java)
+>  * [11328 Strfry](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/11328_Strfry.java)
 
 > ## 백트래킹
 
@@ -59,22 +62,34 @@
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
 
 > ## 스택 & 큐 & 덱
+>  * [1021 회전하는 큐](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1021_회전하는큐.java)
+>  * [1406 에디터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1406_에디터.java)
 >  * [1874 스택 수열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1874_스택수열.java)
 >  * [1918 후위 표기식](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1918_후위표기식.java)
 >  * [1935 후위 표기식2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1935_후위표기식2.java)
+>  * [1966 프린터 큐](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1966_프린터큐.java)
+>  * [2164 카드2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/2164_카드2.java)
 >  * [2504 괄호의 값](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/2504_괄호의값.java)
 >  * [3986 좋은 단어](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/3986_좋은단어.java)
 >  * [4889 안정적인 문자열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/4889_안정적인문자열.java)
 >  * [4949 균형잡힌 세상](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/4949_균형잡힌세상.java)
+>  * [5397 키로거](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/5397_키로거.java)
 >  * [6198 옥상 정원 꾸미기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/6198_옥상정원꾸미기.java)
 >  * [9012 괄호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/9012_괄호.java)
 >  * [10773 제로](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10773_제로.java)
 >  * [10845 큐](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10845_큐.java)
 >  * [10799 쇠 막대기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10799_쇠막대기.java)
 >  * [10828 스택](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10828_스택.java)
+>  * [10866 덱](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/10866_덱.java)
+>  * [18258 큐2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/18258_큐2.java)
 
 > ## 재귀
 
 > ## 정렬
+>  * [1181 단어 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/1181_단어정렬.java)
+>  * [2750 수 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2750_수정렬하기.java)
+>  * [2751 수 정렬하기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2751_수정렬하기2.java)
+>  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
+>  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
 
 > ## 트리
