@@ -39,6 +39,7 @@
 >  * [2644 촌수계산](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2644_촌수계산.java)
 >  * [3190 빵집](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3190_빵집.java)
 >  * [16956 늑대와 양](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16956_늑대와양.java)
+>  * [17070 파이프 옮기기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17070_파이프옮기기.java)
 >  * [17135 캐슬 디펜스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17135_캐슬디펜스.java)
 >  * [20304 비밀번호 제작](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/20304_비밀번호제작.java)
 
@@ -57,6 +58,9 @@
 > ## 백트래킹
 
 > ## 브루트포스
+>  * [16637 괄호 추가하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/16637_괄호추가하기.java)
+>  * [17136 색종이 붙이기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17136_색종이붙이기.java)
+>  * [17281 ⚾](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17281_⚾.java)
 
 > ## 수학
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
