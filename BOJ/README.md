@@ -34,8 +34,10 @@
 >  * [16935 배열돌리기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16935_배열돌리기3.java)
 
 > ## 그래프
+>  * [1012 유기농 배추](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1012_유기농배추.java)
 >  * [1260 DFS와 BFS](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1260_DFS와BFS.java)
 >  * [1987 알파벳](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1987_알파벳.java)
+>  * [2606 바이러스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2606_바이러스.java)
 >  * [2644 촌수계산](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2644_촌수계산.java)
 >  * [3190 빵집](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3190_빵집.java)
 >  * [16956 늑대와 양](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16956_늑대와양.java)
