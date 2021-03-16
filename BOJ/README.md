@@ -58,6 +58,7 @@
 > ## 백트래킹
 
 > ## 브루트포스
+>  * [1759 암호 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/1759_암호만들기.java)
 >  * [16637 괄호 추가하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/16637_괄호추가하기.java)
 >  * [17136 색종이 붙이기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17136_색종이붙이기.java)
 >  * [17281 ⚾](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17281_⚾.java)
