@@ -58,7 +58,7 @@
 >  * [9466 텀 프로젝트](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/9466_텀프로젝트.java)
 >  * [10026 적록색약](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/10026_적록색약.java)
 >  * [11724 연결 요소의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11724_연결요소의개수.java)
->  * [11403 경로 찾기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11403_ 경로찾기.java)
+>  * [11403 경로 찾기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11403_경로찾기.java)
 >  * [16236 아기 상어](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16236_아기상어.java)
 >  * [16562 친구비](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16562_친구비.java)
 >  * [16956 늑대와 양](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16956_늑대와양.java)
