@@ -49,6 +49,7 @@
 >  * [2606 바이러스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2606_바이러스.java)
 >  * [2644 촌수계산](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2644_촌수계산.java)
 >  * [2667 단지번호붙이기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2667_단지번호붙이기.java)
+>  * [3055 탈출](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3055_탈출.java)
 >  * [3184 양](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3184_양.java)
 >  * [3190 빵집](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3190_빵집.java)
 >  * [7562 나이트의 이동](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/7562_나이트의이동.java)
