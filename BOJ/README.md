@@ -32,6 +32,7 @@
 >  * [14891 톱니바퀴](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/14891_톱니바퀴.java)
 >  * [16926 배열돌리기1](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16926_배열돌리기1.java)
 >  * [16935 배열돌리기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16935_배열돌리기3.java)
+>  * [20055 컨베이어 벨트 위의 로봇](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/20055_컨베이어벨트위의로봇.java)
 
 > ## 그래프
 >  * [1012 유기농 배추](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1012_유기농배추.java)
@@ -65,6 +66,7 @@
 >  * [16956 늑대와 양](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16956_늑대와양.java)
 >  * [17070 파이프 옮기기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17070_파이프옮기기.java)
 >  * [17135 캐슬 디펜스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17135_캐슬디펜스.java)
+>  * [19238 스타트 택시](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/19238_스타트택시.java)
 >  * [20304 비밀번호 제작](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/20304_비밀번호제작.java)
 
 > ## 다이나믹 프로그래밍 (DP)
@@ -83,6 +85,7 @@
 
 > ## 브루트포스
 >  * [1759 암호 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/1759_암호만들기.java)
+>  * [14501 퇴사](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/14501_퇴사.java)
 >  * [16637 괄호 추가하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/16637_괄호추가하기.java)
 >  * [17136 색종이 붙이기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17136_색종이붙이기.java)
 >  * [17281 ⚾](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17281_⚾.java)
