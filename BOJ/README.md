@@ -37,6 +37,7 @@
 > ## 그래프
 >  * [1012 유기농 배추](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1012_유기농배추.java)
 >  * [1260 DFS와 BFS](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1260_DFS와BFS.java)
+>  * [1600 말이 되고픈 원숭이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1600_말이되고픈원숭이.java)
 >  * [1697 숨바꼭질](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1697_숨바꼭질.java)
 >  * [1717 집합의 표현](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1717_집합의표현.java)
 >  * [1743 음식물 피하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1743_음식물피하기.java)
@@ -50,6 +51,7 @@
 >  * [2468 안전 영역](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2468_안전영역.java)
 >  * [2589 보물섬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2589_보물섬.java)
 >  * [2606 바이러스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2606_바이러스.java)
+>  * [2636 치즈](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2636_치즈.java)
 >  * [2644 촌수계산](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2644_촌수계산.java)
 >  * [2667 단지번호붙이기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2667_단지번호붙이기.java)
 >  * [3055 탈출](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3055_탈출.java)
@@ -74,11 +76,15 @@
 >  * [20304 비밀번호 제작](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/20304_비밀번호제작.java)
 
 > ## 다이나믹 프로그래밍 (DP)
+>  * [1003 피보나치 함수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/1003_피보나치함수.java)
 >  * [1149 RGB거리](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/1149_RGB거리.java)
 >  * [1463 1로 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/1463_1로만들기.java)
->  * [2133 타일 채우기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2133_타일채우기.java)
->  * [1003 피보나치 함수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/1003_피보나치함수.java)
 >  * [1904 01타일](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/1904_01타일.java)
+>  * [2098 외판원순회](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2098_외판원순회.java)
+>  * [2133 타일 채우기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2133_타일채우기.java)
+>  * [2156 포도주 시식](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2156_포도주시식.java)
+>  * [2579 계단 오르기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2579_계단오르기.java)
+>  * [12865 평범한 배낭](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/12865_평범한배낭.java)
 >  * [14430 자원 캐기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/14430_자원캐기.java)
 >  * [14494 다이나믹이 뭐예요?](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/14494_다이나믹이뭐예요.java)
 
