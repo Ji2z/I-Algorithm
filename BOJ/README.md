@@ -67,11 +67,13 @@
 >  * [11724 연결 요소의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11724_연결요소의개수.java)
 >  * [11403 경로 찾기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11403_경로찾기.java)
 >  * [13549 숨바꼭질3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/13549_숨바꼭질3.java)
+>  * [14502 연구소](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/14502_연구소.java)
 >  * [16236 아기 상어](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16236_아기상어.java)
 >  * [16562 친구비](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16562_친구비.java)
 >  * [16956 늑대와 양](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16956_늑대와양.java)
 >  * [17070 파이프 옮기기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17070_파이프옮기기.java)
 >  * [17135 캐슬 디펜스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17135_캐슬디펜스.java)
+>  * [17472 다리 만들기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17472_다리만들기2.java)
 >  * [19238 스타트 택시](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/19238_스타트택시.java)
 >  * [20304 비밀번호 제작](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/20304_비밀번호제작.java)
 
@@ -139,6 +141,7 @@
 >  * [1181 단어 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/1181_단어정렬.java)
 >  * [2750 수 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2750_수정렬하기.java)
 >  * [2751 수 정렬하기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2751_수정렬하기2.java)
+>  * [10814 나이순 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10814_나이순정렬.java)
 >  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
 >  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
 
