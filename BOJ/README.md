@@ -42,6 +42,7 @@
 >  * [1717 집합의 표현](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1717_집합의표현.java)
 >  * [1743 음식물 피하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1743_음식물피하기.java)
 >  * [1753 최단경로](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1753_최단경로.java)
+>  * [1939 중량제한](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1939_중량제한.java)
 >  * [1976 여행 가자](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1976_여행가자.java)
 >  * [1987 알파벳](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1987_알파벳.java)
 >  * [2178 미로 탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2178_미로탐색.java)
@@ -114,6 +115,7 @@
 
 > ## 수학
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
+>  * [17087 숨바꼭질 6](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/17087_숨바꼭질6.java)
 
 > ## 스택 & 큐 & 덱
 >  * [1021 회전하는 큐](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/1021_회전하는큐.java)
