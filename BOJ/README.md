@@ -145,9 +145,11 @@
 >  * [18258 큐2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/스택%20&%20큐%20&%20덱/18258_큐2.java)
 
 > ## 재귀
+>  * [16953 A→B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/재귀/16953_A→B.java)
 
 > ## 정렬
 >  * [1181 단어 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/1181_단어정렬.java)
+>  * [1755 숫자놀이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/1755_숫자놀이.java)
 >  * [2750 수 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2750_수정렬하기.java)
 >  * [2751 수 정렬하기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2751_수정렬하기2.java)
 >  * [10814 나이순 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10814_나이순정렬.java)
