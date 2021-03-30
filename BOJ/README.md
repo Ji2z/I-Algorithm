@@ -108,6 +108,7 @@
 >  * [1475 방 번호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/1475_방번호.java)
 >  * [2577 숫자의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/2577_숫자의개수.java)
 >  * [11328 Strfry](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/11328_Strfry.java)
+>  * [12904 A와 B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/12904_A와B.java)
 
 > ## 백트래킹
 
