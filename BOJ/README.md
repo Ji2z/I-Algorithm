@@ -157,4 +157,5 @@
 >  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
 >  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
 
-> ## 트리
+> ## 트리 & 맵
+>  * [1620 나는야 포켓몬 마스터 이다솜](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/트리%20&%20맵/1620_나는야포켓몬마스터이다솜.java)
