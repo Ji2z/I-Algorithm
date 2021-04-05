@@ -36,6 +36,7 @@
 
 > ## 그래프
 >  * [1012 유기농 배추](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1012_유기농배추.java)
+>  * [1167 트리의 지름](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1167_트리의지름.java)
 >  * [1260 DFS와 BFS](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1260_DFS와BFS.java)
 >  * [1600 말이 되고픈 원숭이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1600_말이되고픈원숭이.java)
 >  * [1697 숨바꼭질](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1697_숨바꼭질.java)
@@ -44,6 +45,7 @@
 >  * [1743 음식물 피하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1743_음식물피하기.java)
 >  * [1753 최단경로](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1753_최단경로.java)
 >  * [1939 중량제한](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1939_중량제한.java)
+>  * [1967 트리의 지름](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1967_트리의지름.java)
 >  * [1976 여행 가자](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1976_여행가자.java)
 >  * [1987 알파벳](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1987_알파벳.java)
 >  * [2178 미로 탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/2178_미로탐색.java)
@@ -114,6 +116,7 @@
 >  * [12904 A와 B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/12904_A와B.java)
 
 > ## 백트래킹
+>  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/2110_공유기설치.java)
 
 > ## 브루트포스
 >  * [1759 암호 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/1759_암호만들기.java)
