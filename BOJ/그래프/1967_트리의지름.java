@@ -9,14 +9,14 @@ import java.util.StringTokenizer;
 * @since 2021. 4. 5.
 * @author Jin
 * @see https://www.acmicpc.net/problem/1967
-* @mem 128568kb
-* @time 1892ms
-* @caution G4
+* @mem 128568kb / 19656kb
+* @time 1892ms / 160ms
+* @caution G4 두번째 방법이 10배 빠르다.
 */
 
 public class 1967_트리의지름 {
 
-	static int N, answer;
+	static int N, answer, max_idx;
 	static List<int[]>[] list;
 	static boolean[] visited;
 
@@ -45,16 +45,29 @@ public class 1967_트리의지름 {
 			leaf = parent;
 		}
 
-		for (int i = leaf+1; i < N; i++) {
-			visited = new boolean[N];
-			dfs(i, 0);
-		}
+		// 첫번째 풀이 : 리프노드 사용
+//		for (int i = leaf+1; i < N; i++) {
+//			visited = new boolean[N];
+//			dfs(i, 0);
+//		}
+
+		// 두번재 풀이 : 루트에서 가장 먼 노드 찾고 그 노드 기준으로 가장 먼 노드 찾기		
+		dfs(0,0);
+		visited = new boolean[N];
+		dfs(max_idx, 0);
 		
 		System.out.println(answer);
 	}
 
 	static void dfs(int start, int sum) {
-		answer = Math.max(answer, sum);
+		// 첫번째 풀이
+		//answer = Math.max(answer, sum);
+
+		// 두번째 풀이
+		if(answer < sum) {
+			max_idx = start;
+			answer = sum;
+		}
 		
 		visited[start] = true;
 		for(int[] x: list[start]) {
