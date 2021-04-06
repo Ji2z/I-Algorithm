@@ -116,7 +116,9 @@
 >  * [12904 A와 B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/12904_A와B.java)
 
 > ## 백트래킹
+>  * [1654 랜선 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/1654_랜선자르기.java)
 >  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/2110_공유기설치.java)
+>  * [2805 나무 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/2805_나무자르기.java)
 
 > ## 브루트포스
 >  * [1759 암호 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/1759_암호만들기.java)
