@@ -20,8 +20,6 @@ public class 1644_소수의연속합 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		// StringBuilder output = new StringBuilder("");
-		//StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
 		make_prime(4000000);
 		List<Integer> list = new ArrayList<>();
