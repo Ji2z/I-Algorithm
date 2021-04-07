@@ -73,6 +73,7 @@
 >  * [9205 맥주 마시면서 걸어가기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/9205_맥주마시면서걸어가기.java)
 >  * [9466 텀 프로젝트](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/9466_텀프로젝트.java)
 >  * [10026 적록색약](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/10026_적록색약.java)
+>  * [11404 플로이드](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11404_플로이드.java)
 >  * [11724 연결 요소의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11724_연결요소의개수.java)
 >  * [11403 경로 찾기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/11403_경로찾기.java)
 >  * [12851 숨바꼭질 2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/12851_숨바꼭질2.java)
@@ -116,9 +117,7 @@
 >  * [12904 A와 B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/12904_A와B.java)
 
 > ## 백트래킹
->  * [1654 랜선 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/1654_랜선자르기.java)
->  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/2110_공유기설치.java)
->  * [2805 나무 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/2805_나무자르기.java)
+
 
 > ## 브루트포스
 >  * [1759 암호 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/1759_암호만들기.java)
@@ -164,6 +163,13 @@
 >  * [10814 나이순 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10814_나이순정렬.java)
 >  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
 >  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
+
+> ## 탐색
+>  * [1644 소수의 연속합 - 투포인터, 에라토스테네스의 체](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1644_소수의연속합.java)
+>  * [1654 랜선 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1654_랜선자르기.java)
+>  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2110_공유기설치.java)
+>  * [2805 나무 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2805_나무자르기.java)
+
 
 > ## 트리 & 맵
 >  * [1620 나는야 포켓몬 마스터 이다솜](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/트리%20&%20맵/1620_나는야포켓몬마스터이다솜.java)
