@@ -36,7 +36,9 @@
 
 > ## 그래프
 >  * [1012 유기농 배추](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1012_유기농배추.java)
+>  * [1043 거짓말](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1043_거짓말.java)
 >  * [1167 트리의 지름](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1167_트리의지름.java)
+>  * [12338 파티](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1238_파티.java)
 >  * [1260 DFS와 BFS](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1260_DFS와BFS.java)
 >  * [1600 말이 되고픈 원숭이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1600_말이되고픈원숭이.java)
 >  * [1697 숨바꼭질](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1697_숨바꼭질.java)
