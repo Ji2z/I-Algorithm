@@ -170,6 +170,7 @@
 > ## 탐색
 >  * [1644 소수의 연속합 - 투포인터, 에라토스테네스의 체](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1644_소수의연속합.java)
 >  * [1654 랜선 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1654_랜선자르기.java)
+>  * [1806 부분합 - 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1806_부분합.java)
 >  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2110_공유기설치.java)
 >  * [2805 나무 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2805_나무자르기.java)
 
