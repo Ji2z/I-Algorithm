@@ -120,6 +120,7 @@
 >  * [12904 A와 B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/12904_A와B.java)
 
 > ## 백트래킹
+>  * [1182 부분수열의 합](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/1182_부분수열의합.java)
 
 
 > ## 브루트포스
