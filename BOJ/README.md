@@ -175,6 +175,7 @@
 >  * [1806 부분합 - 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1806_부분합.java)
 >  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2110_공유기설치.java)
 >  * [2143 두 배열의 합- 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2143_두배열의합.java)
+>  * [2531 회전 초밥- 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_2531_회전초밥.java)
 >  * [2805 나무 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2805_나무자르기.java)
 >  * [7453 합이 0인 네 정수 - 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/7453_합이0인네정수.java)
 
