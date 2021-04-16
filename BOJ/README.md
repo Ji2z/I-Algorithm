@@ -122,6 +122,8 @@
 
 > ## 백트래킹
 >  * [1182 부분수열의 합](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/1182_부분수열의합.java)
+>  * [2239 스도쿠](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/BOJ_2239_스도쿠.java)
+>  * [2580 스도쿠](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/BOJ_2580_스도쿠.java)
 
 
 > ## 브루트포스
@@ -130,6 +132,7 @@
 >  * [16637 괄호 추가하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/16637_괄호추가하기.java)
 >  * [17136 색종이 붙이기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17136_색종이붙이기.java)
 >  * [17281 ⚾](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17281_⚾.java)
+>  * [17471 게리맨더링](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_17471_게리맨더링.java)
 
 > ## 수학
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
