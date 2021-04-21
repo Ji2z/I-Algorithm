@@ -138,6 +138,7 @@
 >  * [17136 색종이 붙이기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17136_색종이붙이기.java)
 >  * [17281 ⚾](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17281_⚾.java)
 >  * [17471 게리맨더링](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_17471_게리맨더링.java)
+>  * [17779 게리맨더링2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_17779_게리맨더링2.java)
 
 > ## 수학
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
