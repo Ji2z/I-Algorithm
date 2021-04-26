@@ -34,6 +34,7 @@
 >  * [15685 드래곤 커브](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_15685_드래곤커브.java)
 >  * [16926 배열돌리기1](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16926_배열돌리기1.java)
 >  * [16935 배열돌리기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16935_배열돌리기3.java)
+>  * [17143 낚시왕](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_17143_낚시왕.java)
 >  * [17144 미세먼지 안녕!](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/17144_미세먼지안녕!.java)
 >  * [20055 컨베이어 벨트 위의 로봇](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/20055_컨베이어벨트위의로봇.java)
 
