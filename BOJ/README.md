@@ -36,6 +36,7 @@
 >  * [16935 배열돌리기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16935_배열돌리기3.java)
 >  * [17143 낚시왕](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_17143_낚시왕.java)
 >  * [17144 미세먼지 안녕!](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/17144_미세먼지안녕!.java)
+>  * [19236 청소년 상어](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_19236_청소년상어.java)
 >  * [20055 컨베이어 벨트 위의 로봇](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/20055_컨베이어벨트위의로봇.java)
 
 > ## 그래프
@@ -122,6 +123,7 @@
 > ## 문자열
 >  * [1475 방 번호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/1475_방번호.java)
 >  * [2577 숫자의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/2577_숫자의개수.java)
+>  * [5052 전화번호 목록](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/BOJ_5052_전화번호목록.java)
 >  * [11328 Strfry](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/11328_Strfry.java)
 >  * [12904 A와 B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/12904_A와B.java)
 
