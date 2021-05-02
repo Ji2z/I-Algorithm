@@ -12,6 +12,7 @@
 >  * [2741 N찍기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2741_N찍기.java)
 >  * [2742 기찍N](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2742_기찍N.java)
 >  * [2810 컵홀더](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2810_컵홀더.java)
+>  * [2846 오르막길](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_2846_오르막길.java)
 >  * [2851 슈퍼마리오](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2851_슈퍼마리오.java)
 >  * [2908 상수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2908_상수.java)
 >  * [2999 비밀 이메일](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2999_비밀이메일.java)
