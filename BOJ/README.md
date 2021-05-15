@@ -76,6 +76,7 @@
 >  * [3190 빵집](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3190_빵집.java)
 >  * [4179 불!](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/4179_불!.java)
 >  * [5427 불](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/5427_불.java)
+>  * [6087 레이저 통신](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/BOJ_6087_레이저통신.java)
 >  * [7562 나이트의 이동](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/7562_나이트의이동.java)
 >  * [7569 토마토](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/7569_토마토.java)
 >  * [7576 토마토](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/7576_토마토.java)
@@ -127,6 +128,7 @@
 >  * [5052 전화번호 목록](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/BOJ_5052_전화번호목록.java)
 >  * [11328 Strfry](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/11328_Strfry.java)
 >  * [12904 A와 B](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/12904_A와B.java)
+>  * [20166 문자열 지옥에 빠진 호석](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/BOJ_20166_문자열지옥에빠진호석.java)
 
 > ## 백트래킹
 >  * [1182 부분수열의 합](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/1182_부분수열의합.java)
@@ -187,6 +189,7 @@
 >  * [1644 소수의 연속합 - 투포인터, 에라토스테네스의 체](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1644_소수의연속합.java)
 >  * [1654 랜선 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1654_랜선자르기.java)
 >  * [1806 부분합 - 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1806_부분합.java)
+>  * [1981 배열에서 이동 - 이분탐색,투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_1981_배열에서이동.java)
 >  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2110_공유기설치.java)
 >  * [2143 두 배열의 합- 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2143_두배열의합.java)
 >  * [2531 회전 초밥- 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_2531_회전초밥.java)
