@@ -116,6 +116,7 @@
 >  * [2579 계단 오르기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2579_계단오르기.java)
 >  * [2629 양팔저울](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2629_양팔저울.java)
 >  * [2749 피보나치 수 3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2749_피보나치수3.java)
+>  * [4097 수익](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/BOJ_4097_수익.java)
 >  * [11053 가장 긴 증가하는 부분 수열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/11053_가장긴증가하는부분수열.java)
 >  * [12015 가장 긴 증가하는 부분 수열2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/12015_가장긴증가하는부분수열2.java)
 >  * [12738 가장 긴 증가하는 부분 수열3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/12738_가장긴증가하는부분수열3.java)
