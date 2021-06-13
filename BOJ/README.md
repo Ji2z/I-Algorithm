@@ -117,6 +117,7 @@
 >  * [2629 양팔저울](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2629_양팔저울.java)
 >  * [2749 피보나치 수 3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2749_피보나치수3.java)
 >  * [4097 수익](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/BOJ_4097_수익.java)
+>  * [9095 1, 2, 3 더하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/BOJ_9095_1,2,3더하기.java)
 >  * [11053 가장 긴 증가하는 부분 수열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/11053_가장긴증가하는부분수열.java)
 >  * [12015 가장 긴 증가하는 부분 수열2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/12015_가장긴증가하는부분수열2.java)
 >  * [12738 가장 긴 증가하는 부분 수열3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/12738_가장긴증가하는부분수열3.java)
@@ -184,9 +185,11 @@
 >  * [1755 숫자놀이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/1755_숫자놀이.java)
 >  * [2750 수 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2750_수정렬하기.java)
 >  * [2751 수 정렬하기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2751_수정렬하기2.java)
+>  * [7795 먹을 것인가 먹힐 것인가](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_7795_먹을것인가먹힐것인가.java)
 >  * [10814 나이순 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10814_나이순정렬.java)
 >  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
 >  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
+>  * [18870 좌표 압축](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_18870_좌표압축.java)
 
 > ## 탐색
 >  * [1644 소수의 연속합 - 투포인터, 에라토스테네스의 체](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/1644_소수의연속합.java)
