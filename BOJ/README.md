@@ -100,6 +100,7 @@
 >  * [17070 파이프 옮기기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17070_파이프옮기기.java)
 >  * [17135 캐슬 디펜스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17135_캐슬디펜스.java)
 >  * [17472 다리 만들기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17472_다리만들기2.java)
+>  * [18352 특정 거리의 도시 찾기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/BOJ_18352_특정거리의도시찾기.java)
 >  * [19238 스타트 택시](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/19238_스타트택시.java)
 >  * [20304 비밀번호 제작](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/20304_비밀번호제작.java)
 
@@ -128,6 +129,7 @@
 
 > ## 문자열
 >  * [1475 방 번호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/1475_방번호.java)
+>  * [1541 잃어버린 괄호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/BOJ_1541_잃어버린괄호.java)
 >  * [2577 숫자의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/2577_숫자의개수.java)
 >  * [5052 전화번호 목록](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/BOJ_5052_전화번호목록.java)
 >  * [11328 Strfry](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/11328_Strfry.java)
@@ -198,6 +200,7 @@
 >  * [1981 배열에서 이동 - 이분탐색,투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_1981_배열에서이동.java)
 >  * [2110 공유기 설치 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2110_공유기설치.java)
 >  * [2143 두 배열의 합- 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2143_두배열의합.java)
+>  * [2467 용액 - 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_2467_용액.java)
 >  * [2531 회전 초밥- 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_2531_회전초밥.java)
 >  * [2805 나무 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2805_나무자르기.java)
 >  * [7453 합이 0인 네 정수 - 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/7453_합이0인네정수.java)
