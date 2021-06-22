@@ -33,6 +33,7 @@
 >  * [14696 딱지놀이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/14696_딱지놀이.java)
 >  * [14891 톱니바퀴](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/14891_톱니바퀴.java)
 >  * [15685 드래곤 커브](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_15685_드래곤커브.java)
+>  * [15685 기차가 어둠을 헤치고](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_15787_기차가어둠을헤치고.java)
 >  * [16926 배열돌리기1](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16926_배열돌리기1.java)
 >  * [16935 배열돌리기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/16935_배열돌리기3.java)
 >  * [17143 낚시왕](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_17143_낚시왕.java)
@@ -97,6 +98,7 @@
 >  * [16236 아기 상어](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16236_아기상어.java)
 >  * [16562 친구비](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16562_친구비.java)
 >  * [16956 늑대와 양](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/16956_늑대와양.java)
+>  * [16988 Baaaaaaaaaduk2 (Easy)](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/BOJ_16988_Baaaaaaaaaduk2_Easy.java)
 >  * [17070 파이프 옮기기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17070_파이프옮기기.java)
 >  * [17135 캐슬 디펜스](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17135_캐슬디펜스.java)
 >  * [17472 다리 만들기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/17472_다리만들기2.java)
@@ -151,6 +153,7 @@
 >  * [17281 ⚾](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/17281_⚾.java)
 >  * [17471 게리맨더링](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_17471_게리맨더링.java)
 >  * [17779 게리맨더링2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_17779_게리맨더링2.java)
+>  * [18430 무기공학](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_18430_무기공학.java)
 
 > ## 수학
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
