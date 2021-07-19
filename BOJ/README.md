@@ -142,6 +142,7 @@
 >  * [1182 부분수열의 합](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/1182_부분수열의합.java)
 >  * [2239 스도쿠](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/BOJ_2239_스도쿠.java)
 >  * [2580 스도쿠](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/BOJ_2580_스도쿠.java)
+>  * [9663 N-Queen](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/백트래킹/BOJ_9663_N-Queen.java)
 
 
 > ## 브루트포스
