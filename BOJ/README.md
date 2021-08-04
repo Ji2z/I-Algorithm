@@ -54,6 +54,7 @@
 >  * [1726 로봇](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1726_로봇.java)
 >  * [1743 음식물 피하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1743_음식물피하기.java)
 >  * [1753 최단경로](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1753_최단경로.java)
+>  * [1865 웜홀](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/BOJ_1865_웜홀.java)
 >  * [1939 중량제한](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1939_중량제한.java)
 >  * [1967 트리의 지름](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1967_트리의지름.java)
 >  * [1976 여행 가자](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1976_여행가자.java)
