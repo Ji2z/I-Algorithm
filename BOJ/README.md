@@ -147,6 +147,7 @@
 
 
 > ## 브루트포스
+>  * [1107 리모컨](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_1107_리모컨.java)
 >  * [1759 암호 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/1759_암호만들기.java)
 >  * [14501 퇴사](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/14501_퇴사.java)
 >  * [15683 감시](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_15683_감시.java)
