@@ -1,6 +1,7 @@
 # BOJ
 > ## 구현
 >  * [1244 스위치 켜고 끄기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/1244_스위치켜고끄기.java)
+>  * [1713 후보 추천하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_1713_후보추천하기.java)
 >  * [2527 직사각형](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2527_직사각형.java)
 >  * [2557 Hello World](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2557_HelloWorld.py)
 >  * [2559 수열](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/2559_수열.java)
