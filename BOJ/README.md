@@ -41,6 +41,7 @@
 >  * [17144 미세먼지 안녕!](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/17144_미세먼지안녕!.java)
 >  * [19236 청소년 상어](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_19236_청소년상어.java)
 >  * [20055 컨베이어 벨트 위의 로봇](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/20055_컨베이어벨트위의로봇.java)
+>  * [20436 ZOAC3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_20436_ZOAC3.java)
 
 > ## 그래프
 >  * [1012 유기농 배추](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/1012_유기농배추.java)
@@ -150,6 +151,7 @@
 > ## 브루트포스
 >  * [1107 리모컨](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_1107_리모컨.java)
 >  * [1759 암호 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/1759_암호만들기.java)
+>  * [5568 카드 놓기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_5568_카드놓기.java)
 >  * [14501 퇴사](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/14501_퇴사.java)
 >  * [15683 감시](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_15683_감시.java)
 >  * [16637 괄호 추가하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/16637_괄호추가하기.java)
