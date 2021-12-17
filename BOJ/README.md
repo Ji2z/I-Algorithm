@@ -80,6 +80,7 @@
 >  * [3190 빵집](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/3190_빵집.java)
 >  * [4179 불!](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/4179_불!.java)
 >  * [5427 불](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/5427_불.java)
+>  * [5972 택배 배송](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/BOJ_5972_택배배송.java)
 >  * [6087 레이저 통신](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/BOJ_6087_레이저통신.java)
 >  * [7562 나이트의 이동](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/7562_나이트의이동.java)
 >  * [7569 토마토](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/그래프/7569_토마토.java)
