@@ -29,6 +29,7 @@
 >  * [11654 아스키코드](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/11654_아스키코드.java)
 >  * [11718 그대로 출력하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/11718_그대로출력하기.java)
 >  * [11719 그대로 출력하기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/11719_그대로출력하기2.java)
+>  * [13459 구슬 탈출](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_13459_구슬탈출.java)
 >  * [14503 로봇 청소기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/BOJ_14503_로봇청소기.java)
 >  * [14681 사분면 고르기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/14681_사분면고르기.java)
 >  * [14696 딱지놀이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/구현/14696_딱지놀이.java)
