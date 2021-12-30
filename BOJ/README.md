@@ -205,6 +205,7 @@
 >  * [2751 수 정렬하기2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/2751_수정렬하기2.java)
 >  * [7795 먹을 것인가 먹힐 것인가](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_7795_먹을것인가먹힐것인가.java)
 >  * [10814 나이순 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10814_나이순정렬.java)
+>  * [10867 중복 빼고 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_10867_중복빼고정렬하기.java)
 >  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
 >  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
 >  * [18870 좌표 압축](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_18870_좌표압축.java)
