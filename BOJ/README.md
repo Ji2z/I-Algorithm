@@ -228,4 +228,5 @@
 >  * [1620 나는야 포켓몬 마스터 이다솜](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/트리%20&%20맵/1620_나는야포켓몬마스터이다솜.java)
 >  * [1764 듣보잡](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/트리%20&%20맵/BOJ_1764_듣보잡.java)
 >  * [7662 이중 우선순위 큐](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/트리%20&%20맵/BOJ_7662_이중우선순위큐.java)
+>  * [11725 트리의 부모 찾기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/트리%20&%20맵/BOJ_11725_트리의부모찾기.java)
 >  * [17219 비밀번호 찾기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/트리%20&%20맵/BOJ_17219_비밀번호찾기.java)
