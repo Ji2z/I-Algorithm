@@ -127,6 +127,7 @@
 >  * [2133 타일 채우기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2133_타일채우기.java)
 >  * [2156 포도주 시식](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2156_포도주시식.java)
 >  * [2294 동전2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2294_동전2.java)
+>  * [2342 Dance Dance Revolution](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/BOJ_2342_DanceDanceRevolution.java)
 >  * [2579 계단 오르기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2579_계단오르기.java)
 >  * [2629 양팔저울](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2629_양팔저울.java)
 >  * [2749 피보나치 수 3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2749_피보나치수3.java)
