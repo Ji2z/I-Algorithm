@@ -143,6 +143,7 @@
 >  * [14494 다이나믹이 뭐예요?](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/14494_다이나믹이뭐예요.java)
 
 > ## 문자열
+>  * [1283 단축키 지정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/BOJ_1283_단축키지정.java)
 >  * [1475 방 번호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/1475_방번호.java)
 >  * [1541 잃어버린 괄호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/BOJ_1541_잃어버린괄호.java)
 >  * [2577 숫자의 개수](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/문자열/2577_숫자의개수.java)
