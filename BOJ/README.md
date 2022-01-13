@@ -216,7 +216,6 @@
 >  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
 >  * [11650 좌표 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_11650_좌표정렬하기.java)
 >  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
->  * [15810 풍선 공장](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_15810_풍선공장.java)
 >  * [18870 좌표 압축](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_18870_좌표압축.java)
 
 > ## 탐색
@@ -231,6 +230,8 @@
 >  * [2776 암기왕 - set](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_2776_암기왕.java)
 >  * [2805 나무 자르기 - 이분탐색](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/2805_나무자르기.java)
 >  * [7453 합이 0인 네 정수 - 투포인터](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/7453_합이0인네정수.java)
+>  * [15810 풍선 공장](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_15810_풍선공장.java)
+>  * [21921 블로그](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/탐색/BOJ_21921_블로그.java)
 
 
 > ## 트리 & 맵
