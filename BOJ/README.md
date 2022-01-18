@@ -206,6 +206,7 @@
 
 > ## 정렬
 >  * [1181 단어 정렬](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/1181_단어정렬.java)
+>  * [1427 소트인사이드](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_1427_소트인사이드.java)
 >  * [1431 시리얼 번호](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_1431_시리얼번호.java)
 >  * [1755 숫자놀이](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/1755_숫자놀이.java)
 >  * [2108 통계학](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_2108_통계학.java)
