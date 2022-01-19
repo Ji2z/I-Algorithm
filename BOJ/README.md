@@ -218,6 +218,7 @@
 >  * [10867 중복 빼고 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_10867_중복빼고정렬하기.java)
 >  * [10989 수 정렬하기3](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/10989_수정렬하기3.java)
 >  * [11650 좌표 정렬하기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_11650_좌표정렬하기.java)
+>  * [11651 좌표 정렬하기 2](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_11651_좌표정렬하기2.java)
 >  * [11931 수 정렬하기4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/11931_수정렬하기4.java)
 >  * [18870 좌표 압축](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/정렬/BOJ_18870_좌표압축.java)
 
