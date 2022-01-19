@@ -1,6 +1,15 @@
 import java.io.*;
 import java.util.*;
 
+/**
+* @since 2022. 1. 19.
+* @author Jin
+* @see https://www.acmicpc.net/problem/11651
+* @mem 52992kb
+* @time 556ms
+* @caution S5
+*/
+
 public class BOJ_11651_좌표정렬하기2 {
 	
 	static class Point implements Comparable<Point>{
