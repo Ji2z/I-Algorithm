@@ -176,6 +176,7 @@
 >  * [18430 무기공학](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/브루트포스/BOJ_18430_무기공학.java)
 
 > ## 수학
+>  * [1041 주사위](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/BOJ_1041_주사위.java)
 >  * [1629 곱셈](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/BOJ_1629_곱셈.java)
 >  * [10157 자리배정](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/10157_자리배정.java)
 >  * [11402 이항 계수 4](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/수학/BOJ_11402_이항계수4.java)
