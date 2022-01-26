@@ -123,6 +123,7 @@
 >  * [1463 1로 만들기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/1463_1로만들기.java)
 >  * [1904 01타일](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/1904_01타일.java)
 >  * [1932 정수 삼각형](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/BOJ_1932_정수삼각형.java)
+>  * [1965 상자넣기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/BOJ_1965_상자넣기.java)
 >  * [2096 내려가기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/BOJ_2096_내려가기.java)
 >  * [2098 외판원순회](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2098_외판원순회.java)
 >  * [2133 타일 채우기](https://github.com/Ji2z/I-Algorithm/blob/main/BOJ/다이나믹%20프로그래밍_DP/2133_타일채우기.java)
